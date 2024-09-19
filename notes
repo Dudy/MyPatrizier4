@@ -1,0 +1,6 @@
+[ ] GameEngine
+[ ] AIPlayer
+[ ] MarketController::buyGoods
+[ ] MarketController::sellGoods
+[ ] TravelController::travel()
+[ ] TravelServiceImpl()
